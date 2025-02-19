@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Castro_Week3</string>
+    <string-array name="planet_names">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string-array name="planet_description">
+        <item>Mercury is the smallest and fastest planet, closest to the Sun, with extreme temperatures.</item>
+        <item>Venus is the Earth\'s "sister planet," covered in thick clouds, with the hottest surface in the solar system.</item>
+        <item>Earth, the only known planet with life, covered in vast oceans and a breathable atmosphere.</item>
+        <item>Mars is known as the "Red Planet," known for its dusty landscape, ice caps, and the possibility of past water.</item>
+        <item>Jupiter is the largest planet, with powerful storms like the Great Red Spot and dozens of moons.</item>
+        <item>Saturn is famous for its stunning ring system, this gas giant has over 80 known moons.</item>
+        <item>Uranus, a blue-green ice giant that rotates on its side, giving it unique seasons.</item>
+        <item>Neptune, the windiest planet, known for its deep blue color and powerful storms</item>
+    </string-array>
+</resources>
